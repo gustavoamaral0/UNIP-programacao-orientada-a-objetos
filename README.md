@@ -9,8 +9,7 @@ Repositório com os exercícios desenvolvidos em sala de aula do curso de Análi
 
 Exercício 1:
 Imagine que, assim como em um jogo de RPG, existam raças (tipos) e todos nós sejamos humanos. 
-Segundo nossas regras, é de bom grado que um humano execute a ação de apresentar-se a outro quando solicitado. Para isso, cada  
-humano possui as seguintes características: 
+Segundo nossas regras, é de bom grado que um humano execute a ação de apresentar-se a outro quando solicitado. Para isso, cada humano possui as seguintes características: 
 ● Nome; 
 ● Idade; 
 ● Objetivos.
